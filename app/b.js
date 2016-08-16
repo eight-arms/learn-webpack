@@ -1,0 +1,1 @@
+var str="This is module B";
